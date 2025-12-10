@@ -27,9 +27,8 @@ Road safety improved in 2022. Total casualties dropped by **11.9%**, and fatal c
 #### 2. The "Car" Dominance
 **Cars** are responsible for nearly **80%** of all casualties across both years.
 
-<img width="346" height="122" alt="Screenshot 2025-12-10 114939" src="https://github.com/user-attachments/assets/4ed0dccc-7de0-4935-9e6e-05db5af63c6f" />
-
 <img width="208" height="514" alt="Screenshot 2025-12-10 114310" src="https://github.com/user-attachments/assets/efc8bee7-2f83-4ad5-ae9b-b16c2f8c3b81" />
+<img width="346" height="122" alt="Screenshot 2025-12-10 114939" src="https://github.com/user-attachments/assets/4ed0dccc-7de0-4935-9e6e-05db5af63c6f" />
 
 #### 3. Infrastructure Risk
 **Single Carriageway** roads are the deadliest, accounting for the vast majority of accidents compared to Dual Carriageways.
